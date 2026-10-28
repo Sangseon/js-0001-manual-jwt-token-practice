@@ -1,0 +1,13 @@
+{
+  "name": "jwt-token-practice",
+  "version": "1.0.0",
+  "description": "Summary of JWT Structure and Creation/Verification Practice Code",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --sort"
+  },
+  "devDependencies": {
+    "mocha": "^12.0.3"
+  }
+}
