@@ -14,6 +14,13 @@ JavaScript와 Node.js의 기본 모듈을 이용하여 JWT(JSON Web Token)의 �
 
 JWT의 Header, Payload, Signature 구조를 이해하고, Base64URL 인코딩과 HMAC-SHA256을 이용한 토큰 생성 과정을 확인한다.
 
+### Topics
+
+- authentication
+- authorization
+- jwt
+- hmac-sha256
+
 ## Focus
 
 - JWT의 Header, Payload, Signature 구조 이해
